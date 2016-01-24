@@ -5,9 +5,20 @@
     <description></description>
     <link>http://netx-lab.github.io//</link>
     <atom:link href="http://netx-lab.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 Jan 2016 15:37:15 +0800</pubDate>
-    <lastBuildDate>Mon, 18 Jan 2016 15:37:15 +0800</lastBuildDate>
-    <generator>Jekyll v3.0.1</generator>
+    <pubDate>Sun, 24 Jan 2016 20:18:15 +0800</pubDate>
+    <lastBuildDate>Sun, 24 Jan 2016 20:18:15 +0800</lastBuildDate>
+    <generator>Jekyll v3.0.2</generator>
+    
+      <item>
+        <title>Apsys</title>
+        <description>&lt;p&gt;Henry is serving as the publication chair of &lt;a href=&quot;http://www.ap-sys.org/&quot;&gt;ACM APSys 2016&lt;/a&gt; and a PC member of &lt;a href=&quot;http://netsys17.uni-goettingen.de/&quot;&gt;NetSys 2017&lt;/a&gt;. Please submit!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 24 Jan 2016 00:00:00 +0800</pubDate>
+        <link>http://netx-lab.github.io//blog/2016/01/24/apsys.html</link>
+        <guid isPermaLink="true">http://netx-lab.github.io//blog/2016/01/24/apsys.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>A Full Blog Post</title>
@@ -18,17 +29,6 @@
         <pubDate>Sun, 25 May 2014 00:00:00 +0800</pubDate>
         <link>http://netx-lab.github.io//blog/2014/05/25/anothertest.html</link>
         <guid isPermaLink="true">http://netx-lab.github.io//blog/2014/05/25/anothertest.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Test</title>
-        <description>&lt;p&gt;This is a short notice of something that happened recently. Just a news update blurb in no great detail.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 14 May 2014 00:00:00 +0800</pubDate>
-        <link>http://netx-lab.github.io//blog/2014/05/14/test.html</link>
-        <guid isPermaLink="true">http://netx-lab.github.io//blog/2014/05/14/test.html</guid>
         
         
       </item>
