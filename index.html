@@ -16,6 +16,7 @@ notitle: true
 <h2>News</h2>
 <ul class="news list-unstyled">
 {% for post in site.posts limit: site.front_page_news %}
+{% include news-item.html item=post %}
     {% if post.shortnews %}
         <li class="shortnews">
             <span class="date">{{ post.date | date_to_long_string }}</span>
