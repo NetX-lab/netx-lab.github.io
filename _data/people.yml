@@ -7,21 +7,21 @@ henry:
         Henry is an Assistant Professor in CS. 
 peng:
     display_name: "Peng Wang"
-    webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
+    # webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
     role: grad 
     bio: |
         Second-year PhD student, on data center networking.
 
 che:
     display_name: "Che Zhang"
-    webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
+    # webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
     role: grad
     bio: |
         Second-year PhD student, on SDN.
 
 zhixiong:
     display_name: "Zhixiong Niu"
-    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
+    # webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
     role: grad
     bio: |
         First-year PhD student, on NFV.
@@ -47,7 +47,17 @@ hangyu:
     bio: |
         on big data systems.
 
-jean:
-    display_name: "Jean Grey"
+xiaoshan:
+    display_name: "Xiaoshan Yu"
     role: alum
-    bio: "Ph.D., 2013. Now at Microsoft Research."
+    bio: "RA, 2015.6–2015.11. Now a PhD student at Xidian University."
+
+jiaqi:
+    display_name: "Jiaqi Zheng"
+    role: alum
+    bio: "RA, 2015.1–2015.6. Now a visiting PhD student at Temple University, Pennsylvania, USA."
+
+shuhao:
+    display_name: "Shuhao Liu"
+    role: alum
+    bio: "RA, 2013.12–2014.7. Now a PhD student at University of Toronto."
