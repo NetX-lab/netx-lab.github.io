@@ -10,21 +10,42 @@ peng:
     webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
     role: grad 
     bio: |
-        Second-year PhD student.
+        Second-year PhD student, on data center networking.
 
 che:
     display_name: "Che Zhang"
     webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
     role: grad
     bio: |
-        Second-year PhD student.
+        Second-year PhD student, on SDN.
 
 zhixiong:
     display_name: "Zhixiong Niu"
     webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
     role: grad
     bio: |
-        First-year PhD student.
+        First-year PhD student, on NFV.
+
+qiong:
+    display_name: "Qiong Wu"
+    # webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
+    role: ra
+    bio: |
+        on SDN.
+
+libin:
+    display_name: "Libin Liu"
+    # webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
+    role: ra
+    bio: |
+        on NFV.
+
+hangyu:
+    display_name: "Hangyu Li"
+    # webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
+    role: ra
+    bio: |
+        on big data systems.
 
 jean:
     display_name: "Jean Grey"
