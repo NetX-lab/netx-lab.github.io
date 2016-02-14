@@ -1,27 +1,30 @@
-profx:
-    display_name: "Professor X"
-    webpage: "http://en.wikipedia.org/wiki/Professor_X"
-    github: profx
+henry:
+    display_name: "Prof. Henry Xu"
+    webpage: "http://www.cs.cityu.edu.hk/~hxu/"
+    github: henryhxu
     role: faculty
     bio: |
-        Professor X is the leader and founder of X-Men. 
-melody:
-    display_name: "Scott Summers"
+        Henry is an Assistant Professor in CS. 
+peng:
+    display_name: "Peng Wang"
     webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
-    role: staff
+    role: grad 
     bio: |
-        Scott, also known as Cyclops, shoots lasers from his eyes, which makes him the perfect administrative assistant.
+        Second-year PhD student.
 
-wolverine:
-    display_name: "Wolverine"
+che:
+    display_name: "Che Zhang"
     webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
-    github: wolverine
-    role: postdoc
+    role: grad
+    bio: |
+        Second-year PhD student.
 
-storm:
-    display_name: "Storm"
+zhixiong:
+    display_name: "Zhixiong Niu"
     webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
     role: grad
+    bio: |
+        First-year PhD student.
 
 jean:
     display_name: "Jean Grey"
