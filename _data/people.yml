@@ -98,3 +98,10 @@ di:
     webpage: "http://www.ualberta.ca/~dniu/Homepage/Home.html"
     role: collab
     bio: "Assistant Professor, University of Alberta."
+
+
+sarana:
+    display_name: "Sarana Nutanong"
+    webpage: "http://www.snutanong.net/"
+    role: collab
+    bio: "Assistant Professor, City University of Hong Kong."
