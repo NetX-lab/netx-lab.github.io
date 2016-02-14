@@ -1,10 +1,10 @@
 henry:
-    display_name: "Prof. Henry Xu"
+    display_name: "Henry Xu"
     webpage: "http://www.cs.cityu.edu.hk/~hxu/"
     github: henryhxu
     role: faculty
-    bio: |
-        Henry is an Assistant Professor in CS. 
+    # bio: |
+        # Henry is an Assistant Professor in CS. 
 peng:
     display_name: "Peng Wang"
     # webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
@@ -61,3 +61,40 @@ shuhao:
     display_name: "Shuhao Liu"
     role: alum
     bio: "RA, 2013.12–2014.7. Now a PhD student at University of Toronto."
+
+zhiping:
+    display_name: "Zhiping Cai"
+    # webpage: "http://www.ualberta.ca/~dniu/Homepage/Home.html"
+    role: collab
+    bio: "Associate Professor, National University of Defense Technology, China."
+kai:
+    display_name: "Kai Chen"
+    webpage: "http://www.cse.ust.hk/~kaichen/"
+    role: collab
+    bio: "Assistant Professor, HKUST."
+
+chen:
+    display_name: "Chen Feng"
+    webpage: "http://engineering.ok.ubc.ca/faculty/cfeng.html"
+    role: collab
+    bio: "Assistant Professor, University of British Columbia, Okanagan Campus."
+
+
+fangming:
+    display_name: "Fangming Liu"
+    webpage: "http://grid.hust.edu.cn/fmliu/"
+    role: collab
+    bio: "Professor, Huazhong University of Science and Technology, China."
+
+baochun:
+    display_name: "Baochun Li"
+    webpage: "http://iqua.ece.toronto.edu/bli/"
+    role: collab
+    bio: "Professor, University of Toronto."
+
+
+di:
+    display_name: "Di Niu"
+    webpage: "http://www.ualberta.ca/~dniu/Homepage/Home.html"
+    role: collab
+    bio: "Assistant Professor, University of Alberta."
