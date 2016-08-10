@@ -7,6 +7,7 @@ henry:
         # Henry is an Assistant Professor in CS. 
 peng:
     display_name: "Peng Wang"
+    webpage: "https://williamcityu.github.io"
     # webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
     role: grad 
     bio: |
